@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Your name goes here</title>
+        <title>My name is JG</title>
     </head>
     <body>
         <?php
